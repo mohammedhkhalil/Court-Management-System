@@ -1,4 +1,4 @@
-# court-Database-
+# Court-Management-System
 
 <div>
 "In the courtroom, all parties involved in the case gather: the plaintiffs and defendants, and the lawyer of each party, in addition to the judge presiding over the session. The lawyers sit on opposite sides facing the judge, where they present their arguments and defend their clients.
